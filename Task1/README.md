@@ -59,4 +59,8 @@ Key insights obtained include:
 
 
 This repository is submitted as part of the **CodTech Data Analysis Internship – Task 1**.
+## Output: 
+<img width="1700" height="525" alt="Image" src="https://github.com/user-attachments/assets/f03e5c30-9cc4-426c-93c1-ddccba5c1b43" />
+<img width="1560" height="492" alt="Image" src="https://github.com/user-attachments/assets/88954153-aab8-4cde-af62-98390076a77f" />
+<img width="1183" height="514" alt="Image" src="https://github.com/user-attachments/assets/ac402147-5a69-48a6-9c89-976dd95eb1b1" />
 
