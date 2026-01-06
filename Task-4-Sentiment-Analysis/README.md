@@ -53,4 +53,5 @@ The goal is to classify customer reviews into positive and negative sentiments a
 - Sentiment distribution graph shows customer opinion trends
 - The model successfully predicts sentiment for new reviews
 
-
+## **Output**:
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/8ed650b3-eba8-4897-8090-849e178145ba" />
