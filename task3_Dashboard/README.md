@@ -48,3 +48,5 @@ Overall, this task demonstrates the ability to create a fully functional, intera
 - The dashboard supports quick and effective business decision-making.
 
 
+## Output:
+<img width="1256" height="718" alt="Image" src="https://github.com/user-attachments/assets/c40603a2-1a23-4d3a-a554-aafbce971e6e" />
