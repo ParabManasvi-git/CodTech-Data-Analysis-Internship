@@ -1,11 +1,23 @@
 # Sentiment Analysis on Product Reviews (Task-4)
 
-## Internship Details
-- **Company Name:** CodTech IT Solutions Private Limited
-- **Domain:** Data Analytics  
-- **Task Number:** Task-4  
-- **Task Title:** Sentiment Analysis using NLP  
-- **Intern Name:** Manasvi Parab  
+## **Domain:**
+Data Analytics
+
+## **Company Name:**
+Codtech IT Solutions Private Limited
+
+## **Intern Name:**
+Manasvi Tilaji Parab
+
+## **Intern ID:**
+CTIS1170
+
+## **Internship Duration:**
+26 December 2025 - 23 January 2026
+
+## **Mentor Name:**
+Neela Santhosh Kumar.
+
 
 ## Task Description
 This project performs sentiment analysis on product review data using Natural Language Processing (NLP) techniques. 
